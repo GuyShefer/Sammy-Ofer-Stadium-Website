@@ -35,7 +35,7 @@ p {
 }
 
 .text-primary {
-  color: #4dff4d;
+  color: rgb(5, 197, 83);
 }
 
 .btn {
@@ -70,6 +70,11 @@ p {
 }
 
 .bg-primary {
+  background: #80ff80;
+  color: #333;
+}
+
+.bg-secondary {
   background: #DAFFFF;
   color: #333;
 }
@@ -131,7 +136,7 @@ p {
 
 /* Showcase */
 #showcase {
-  background: url("../img/showcase.jpg") no-repeat center center/cover;
+  background: url("../img/showcase-2.jpg") no-repeat center center/cover;
   height: 600px;
 }
 
@@ -142,7 +147,7 @@ p {
 }
 
 #showcase .showcase-content h1 {
-  font-size: 3rem;
+  font-size: 5rem;
   line-height: 1.2em;
   margin-bottom: 50px;
 }
